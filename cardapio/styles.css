@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(155, 204, 233);
+}
+header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(67, 46, 87);
+    text-align: center;
+    padding: 1rem 0;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(108, 108, 109);
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    margin: 0 1rem;
+}
+nav ul li a{
+    color: azure;
+    text-decoration: none;
+    padding: 0,5rem 1rem;
+    display: block;
+
+}
